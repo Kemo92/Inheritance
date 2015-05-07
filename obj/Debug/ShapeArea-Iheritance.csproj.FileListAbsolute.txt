@@ -1,0 +1,6 @@
+C:\Claim\Classproject2\ConsoleApplication1\ShapeArea-Iheritance\bin\Debug\ShapeArea-Iheritance.exe.config
+C:\Claim\Classproject2\ConsoleApplication1\ShapeArea-Iheritance\bin\Debug\ShapeArea-Iheritance.exe
+C:\Claim\Classproject2\ConsoleApplication1\ShapeArea-Iheritance\bin\Debug\ShapeArea-Iheritance.pdb
+C:\Claim\Classproject2\ConsoleApplication1\ShapeArea-Iheritance\obj\Debug\ShapeArea-Iheritance.csprojResolveAssemblyReference.cache
+C:\Claim\Classproject2\ConsoleApplication1\ShapeArea-Iheritance\obj\Debug\ShapeArea-Iheritance.exe
+C:\Claim\Classproject2\ConsoleApplication1\ShapeArea-Iheritance\obj\Debug\ShapeArea-Iheritance.pdb
