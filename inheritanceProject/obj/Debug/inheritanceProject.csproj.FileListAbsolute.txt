@@ -1,0 +1,5 @@
+c:\users\elsa\documents\visual studio 2013\Projects\inheritanceProject\inheritanceProject\bin\Debug\inheritanceProject.exe.config
+c:\users\elsa\documents\visual studio 2013\Projects\inheritanceProject\inheritanceProject\bin\Debug\inheritanceProject.exe
+c:\users\elsa\documents\visual studio 2013\Projects\inheritanceProject\inheritanceProject\bin\Debug\inheritanceProject.pdb
+c:\users\elsa\documents\visual studio 2013\Projects\inheritanceProject\inheritanceProject\obj\Debug\inheritanceProject.exe
+c:\users\elsa\documents\visual studio 2013\Projects\inheritanceProject\inheritanceProject\obj\Debug\inheritanceProject.pdb
